@@ -56,7 +56,7 @@ A graphical Hangman game built using Python and Tkinter. In this game, you try t
 - `hangman.py`: The main Python file with the game logic and Tkinter GUI.
 - `.gitignore`: Ensures no unnecessary files are added to version control.
 - `README.md`: Documentation for the project.
-- `screenshot.png`: A visual representation of the game (add your own screenshot here).
+
 
 ## Future Improvements
 - Add more words to the list for increased variety.
@@ -74,9 +74,6 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- The Python community for their amazing resources.
-- Inspiration from classic hangman games.
 
 ---
 
