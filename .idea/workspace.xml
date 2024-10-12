@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3feed124-8f63-43f8-9331-2ef2e1abb395" name="Changes" comment="" />
+    <list default="true" id="3feed124-8f63-43f8-9331-2ef2e1abb395" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/python-package.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-package.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728674678587</updated>
-      <workItem from="1728674681075" duration="5980000" />
+      <workItem from="1728674681075" duration="6329000" />
     </task>
     <servers />
   </component>
